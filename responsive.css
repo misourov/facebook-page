@@ -1,0 +1,51 @@
+
+@media all and (max-width:1000px){
+	.logo-area{
+		float:none;
+		margin:auto;
+		width:100%;
+		text-align:center;
+		padding-left:0px;
+	}
+	.logIn-area{
+		overflow:hidden;
+		margin-top:10px;
+		width:80%;
+		
+	}
+	.logIn-area .username-area {
+	float:none;
+	margin-bottom:10px;
+	}
+	.logIn-area .password-area{
+		float:none;
+		padding-left:0px;
+		overflow:hidden;
+	}
+	.logIn-area .login-button {
+		float:none;
+	}
+	.logIn-area input[type="text"],[type="password"]{
+		width:80%;
+		
+	}
+	.left-part{
+		float:none;
+		width:100%;
+		padding-left:20px;
+		
+	}
+	.text-area{
+		width:100%;
+	}
+	.right-part{ 
+		float:none;
+		overflow:hidden;
+		padding-left:5%;
+		width:100%;
+	}
+	.right-part p{
+		overflow:hidden;
+		font-size:15px;
+	}
+}
